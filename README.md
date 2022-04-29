@@ -16,8 +16,8 @@
 - 📫 Como contactarme **Lave790@gmail.com**
 
 - ⚡ Algo random **Juego Basket y me encanta leer.**
-<br/>
-<br/>
+<br/><br/>
+
 ## 🚀 Lenguajes y Herramientas:
 
 <p align="left"> 
