@@ -42,11 +42,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/valdez7900/github-readme-activity-graph"><img alt="Luis Valdez's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=valdez7900&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Conecta conmigo:
 
 <p align="left">
